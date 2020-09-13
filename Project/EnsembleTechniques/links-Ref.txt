@@ -1,0 +1,8 @@
+https://www.kaggle.com/darshanjain29/parkinsons-disease-solution
+https://www.kaggle.com/abineshik/prediction-with-many-models
+
+https://www.kaggle.com/nidaguler/parkinsons-data-set/notebooks
+
+http://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
+https://towardsdatascience.com/automate-stacking-in-python-fc3e7834772e
+https://towardsdatascience.com/stacking-made-easy-with-sklearn-e27a0793c92b
